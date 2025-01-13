@@ -1,0 +1,20 @@
+name: lab1
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pillow
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - torchinfo
+  - seaborn
+  - scikit-learn
+  - opencv
+  - ipykernel
